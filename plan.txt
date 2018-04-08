@@ -1,0 +1,2 @@
+1.安装eruka注册中心
+2.搭建springcloud项目
